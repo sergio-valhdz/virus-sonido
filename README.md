@@ -1,0 +1,1 @@
+Este es inicio de una hermosa amistad
