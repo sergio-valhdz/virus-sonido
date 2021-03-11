@@ -1,1 +1,3 @@
-Este es inicio de una hermosa amistad
+# Idea
+Crear un virus que se dispare al arrancar el equipo y dispare un evento auditivo.
+(nnniiiiaaaa) 😈
